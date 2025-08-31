@@ -9,6 +9,7 @@ public class College extends Hostel {
 	}
 	public void collegeCode() {
 		System.out.println("college code is 6557");
+		System.out.println("college code is 7852");
 
 	}
 	public void collegeRank() {
